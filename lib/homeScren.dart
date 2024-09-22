@@ -13,7 +13,7 @@ class HomeScren extends StatelessWidget {
           title: Text('Home'),
           leading: Icon(Icons.home),
         ),
-        body: Center(
+        body: Center(   //center
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [

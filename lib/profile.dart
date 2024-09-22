@@ -29,7 +29,7 @@ class profile extends StatelessWidget {
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.pushReplacement(
+                Navigator.pushReplacement( //return home
                   context,
                   MaterialPageRoute(
                     builder: (context) {

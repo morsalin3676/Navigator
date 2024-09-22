@@ -25,7 +25,7 @@ class setting extends StatelessWidget {
                   },
                 ), (route) => true);
               },
-              child: Text('back to home'),
+              child: Text('back to home'), //text
             ),
           ],
         ),
